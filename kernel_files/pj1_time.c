@@ -1,4 +1,4 @@
-// syscall #352
+// syscall #334
 
 #include <linux/linkage.h>
 #include <linux/kernel.h>
